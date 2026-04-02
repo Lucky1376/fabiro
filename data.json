@@ -1,0 +1,137 @@
+{
+  "app": {
+    "free": {
+      "version": "1.1.2",
+      "update": "cloud_orion_bot",
+      "telegram": "orionbomber",
+      "channel_id": "-1001762221038",
+      "chat": "https://t.me/+xWLy0dl5IsQ5YzYy",
+      "chat_id": "-1001187921089",
+      "dev": {
+        "lostik": "lolzby",
+        "rizza": "rlzza",
+        "admin": "orion_help"
+      },
+      "vt": "https://www.virustotal.com/gui/file/ec0daa14a8efa64fe897850d89f7e2ef836ae1d3b96c2475c81541e0034815a9/details"
+    },
+    "vip": {
+      "version": "2.0.1",
+      "forced_update": 0,
+      "update": "app_orionbot",
+      "telegram": "orionbomber",
+      "channel_id": -1001950167702,
+      "chat": "https://t.me/+xWLy0dl5IsQ5YzYy",
+      "chat_id": -1001906100233,
+      "dev": {
+        "lostik": "lolzby",
+        "rizza": "rlzza",
+        "admin": "orion_help"
+      },
+      "logo": {
+        "light": "https://orion-cloud.ru/app/image/orion-logo-light.png",
+        "dark": "https://orion-cloud.ru/app/image/orion-logo-dark.png"
+      },
+      "debug_password": "e10adc3949ba59abbe56e057f20f883e"
+    },
+    "adv": {
+      "mode": "on",
+      "text": "Надоел слабый спам и хочется что-то мощнее?\nУ нас есть премиум приложение в котором спам мощнее в 5 раз!\nПриобретай уже сейчас!\n\nt.me/app_orion_bot",
+      "bold": 1,
+      "text_color": "#a7effe",
+      "board_color": "#004e5b",
+      "url": "https://t.me/app_orionbot?start=adv",
+      "url_image": "https://t.me/app_orionbot",
+      "image": "https://orion-cloud.ru/app/image/orionPlus-adv-banner.png"
+    },
+    "net": {
+      "current": "ip",
+      "domain": "net.orion-cloud.ru",
+      "ip": "gAAAAABoUT8YJkpcg2c5bbneZljCdO4J-kC4YmSh_mrwnj9tZPMpAUmWRyXBRDhxIaRnYH2DfwoNedk2DAh1N69XLoLwTXy12A==",
+      "port": 13495,
+      "main_domain": "orion-cloud.ru"
+    }
+  },
+  "counter": {
+    "plus": "http://a0841499.xsph.ru/tp.php"
+  },
+  "vip_users": [],
+  "general": {
+    "domain": "orion-cloud.ru",
+    "rmd": "orion-cloud.ru",
+    "logo": {
+        "light": "https://orion-cloud.ru/app/image/orion-logo-light.png",
+        "dark": "https://orion-cloud.ru/app/image/orion-logo-dark.png",
+        "web": "https://orion-cloud.ru/app/image/orion-logo-web.png",
+        "pinkie": "https://orion-cloud.ru/app/image/orion-logo-pinkie.png",
+        "darkpinkie": "https://orion-cloud.ru/app/image/orion-logo-darkpinkie.png",
+        "mint": "https://orion-cloud.ru/app/image/orion-logo-mint.png",
+        "forest": "https://orion-cloud.ru/app/image/orion-logo-forest.png",
+        "graphite": "https://orion-cloud.ru/app/image/orion-logo-graphite.png",
+        "midnight": "https://orion-cloud.ru/app/image/orion-logo-midnight.png",
+        "berry": "https://orion-cloud.ru/app/image/orion-logo-berry.png",
+        "peach": "https://orion-cloud.ru/app/image/orion-logo-peach.png",
+        "mocha": "https://orion-cloud.ru/app/image/orion-logo-mocha.png"
+    },
+    "telegramChannel": {
+        "username": "orionbomber",
+        "id": "-1001762221038"
+    },
+    "telegramChat": {
+        "url": "https://t.me/+xWLy0dl5IsQ5YzYy",
+        "id": "-1001187921089"
+    },
+    "contacts": {
+        "dev": {
+            "rizza": "",
+            "aleksey": "",
+            "velarance": "",
+            "paul": ""
+        },
+        "chatAdmins": {
+            "mylav": "",
+            "andre": "",
+            "gabimaru": "",
+            "send": ""
+        },
+        "designer": {
+            "rs": "rmnscv"
+        },
+        "help": {
+          "gwenn": "orion_help"
+        }
+    }
+  },
+  "appFree": {
+    "version": "1.1.2",
+    "update": {
+        "telegramBot": "cloud_orion_bot",
+        "web": "/app/apk_download?version=1.1.2"
+    },
+    "vt": "https://www.virustotal.com/gui/file/ec0daa14a8efa64fe897850d89f7e2ef836ae1d3b96c2475c81541e0034815a9/details",
+    "adv": [
+        {
+            "urlImage": "https://orion-cloud.ru/app/image/orionPlus-adv-banner.png",
+            "urlClick": "https://t.me/app_orionbot",
+            "beforeDate": "always"
+        },
+        {
+            "urlImage": "https://orion-cloud.ru/app/image/gamma-adv-banner.png",
+            "urlClick": "https://t.me/GammaSearchBot",
+            "beforeDate": "always"
+        },
+        {
+            "urlImage": "https://orion-cloud.ru/app/image/getADV-banner.jpg",
+            "urlClick": "https://t.me/orion_adv",
+            "beforeDate": "always"
+        }
+    ]
+  },
+  "appVip": {
+    "version": "2.0.1",
+    "update": {
+        "telegramBot": "app_orionbot",
+        "web": ""
+    },
+    "vt": ""
+  }
+}
